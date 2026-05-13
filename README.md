@@ -24,7 +24,7 @@ Passionate about technology, I have developed my career in areas such as Compute
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,java,spring,postgres,mysql,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,cpp,python,java,spring,postgres,mysql,docker&theme=light" />
   </a>
     <h3>Softwares and Tools</h3>
      <a href="https://skillicons.dev">
