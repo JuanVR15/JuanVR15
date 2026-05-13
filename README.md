@@ -4,7 +4,7 @@
 <p>
 Computer Science | FullStack Developer Jr.
 </p>
-Passionate about technology, I have developed my career in areas such as Computer Science, and programming.
+Passionate about technology, I have developed my career in areas such as Computer Science and programming.
 
 - 👨‍💻 I currently work with web development technologies such as PHP and Laravel.
 - 📚 I'm learning about frontend and backend technologies.
