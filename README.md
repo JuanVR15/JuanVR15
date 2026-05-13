@@ -40,7 +40,7 @@ Passionate about technology, I have developed my career in areas such as Compute
 <div align='left'>
 <table>
     <tr>
-        <td><a href="https://www.linkedin.com/in/juan-pablo-villamizar-ramirez-432885320/" target="_blank">
+        <td><a href="https://www.linkedin.com/in/juanvr15/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin:  Juan Villamizar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
         </a>
         <td><a href="mailto:villamizarj15@gmail.com" target="_blank">
