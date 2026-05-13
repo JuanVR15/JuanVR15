@@ -2,8 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Juan+Villamizar;" />
 </h1>
 <p>
-Computer Science | FullStack Developer Jr.
+<b>Computer Science | FullStack Developer Jr. </b>
 </p>
+<p>
 Passionate about technology, I have developed my career in areas such as Computer Science and programming.
 
 - 👨‍💻 I currently work with web development technologies such as PHP and Laravel.
